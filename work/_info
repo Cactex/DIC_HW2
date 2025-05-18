@@ -1,0 +1,108 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vIRAM
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1744478098
+!i10b 1
+!s100 kP0[`KLel^X:m4bS_=_Yh1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`5dF;mUH_eB65@fO;@dJ>3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/NCKU/ncku4-2/DIC/HW2
+Z5 w1744371297
+8./mem/IRAM.sv
+F./mem/IRAM.sv
+!i122 225
+L0 3 29
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1744478097.000000
+!s107 ./mem/IRAM.sv|./mem/IROM.sv|testfixture.sv|LCD_CTRL.v|
+Z8 !s90 -reportprogress|300|LCD_CTRL.v|testfixture.sv|
+!i113 1
+Z9 tCvgOpt 0
+n@i@r@a@m
+vIROM
+R0
+R1
+!i10b 1
+!s100 A9b0VmS;_<eP=>37c8Tn^3
+R2
+I[XkmA[Cam4z:VkdhVRMGH0
+R3
+S1
+R4
+R5
+8./mem/IROM.sv
+F./mem/IROM.sv
+!i122 225
+L0 3 24
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 ./mem/IRAM.sv|./mem/IROM.sv|testfixture.sv|LCD_CTRL.v|
+R8
+!i113 1
+R9
+n@i@r@o@m
+vLCD_CTRL
+R1
+!i10b 1
+!s100 XnUE@_8K6a^HP4KjZQR[W3
+R2
+I`G6;H3kHMkokP>FMjl0z90
+R3
+R4
+w1744476457
+8LCD_CTRL.v
+FLCD_CTRL.v
+!i122 225
+L0 1 265
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+n@l@c@d_@c@t@r@l
+vtestfixture
+R0
+R1
+!i10b 1
+!s100 U]GlA8:>j9Q4QhDDEmZ:a2
+R2
+I:17]<`5^R[0gYM3h9>]@^2
+R3
+S1
+R4
+w1744478096
+8testfixture.sv
+Ftestfixture.sv
+!i122 225
+L0 33 146
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
